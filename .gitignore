@@ -1,0 +1,17 @@
+*.pyc
+
+# GROMACS files
+*.gro
+*.out
+*.xtc
+*.edr
+*.mdp
+*.doc
+*.itp
+*.top
+*.tpr
+*.run
+*.log
+*.cpt
+*.ndx
+gmx*
