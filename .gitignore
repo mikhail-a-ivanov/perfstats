@@ -19,4 +19,6 @@ gmx*
 *.atp
 *.dat
 *.ppm
+*sh
+job*
 *#
